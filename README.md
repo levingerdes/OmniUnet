@@ -9,7 +9,8 @@
 
 ### Information
 
-Code associated to the article: **"Multimodal Perception for Planetary Rovers Using Color, Depth, and Thermal Images".** 
+Code associated to the article: **"Multimodal Perception for Planetary Rovers Using Color, Depth, and Thermal Images".** This code is used in the 🔗 [Multimodal Navigation Repository](https://github.com/spaceuma/MultimodalNavigation/).
+
 ### Citation
 
 If this work was helpful for your research, please consider citing the following BibTeX entry:
@@ -19,9 +20,6 @@ If this work was helpful for your research, please consider citing the following
 
 #  System information <a name="sys_info"></a>
 This repository contains the code for training and executing OmniUNet, a multimodal neural network based on transformers designed for semantic segmentation of images that combine color, depth, and thermal data. OmniUNet enables robust perception in complex environments by leveraging complementary sensor modalities. It is especially suited for robotics applications.
-
-An example of how this model can be integrated into a full robotic system is available here:
-🔗 [Multimodal Navigation](https://github.com/spaceuma/MultimodalNavigation/)
 
 A diagram of the OmniUNet architecture is shown below:
 
