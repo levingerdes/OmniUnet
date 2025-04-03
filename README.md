@@ -1,7 +1,5 @@
 # OmniUnet
 
-# Multimodal Navigation
-
 *Author:* [R. Castilla Arquillo](https://github.com/raulcastar) [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-4203-8069)
 
 *Supervisor:* [Carlos J. Pérez del Pulgar](https://github.com/carlibiri) [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5819-8310)
