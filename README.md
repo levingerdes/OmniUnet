@@ -9,7 +9,7 @@
 
 ### Information
 
-Code associated to the article: **"Multimodal Perception for Planetary Rovers Using Color, Depth, and Thermal Images".**
+Code associated to the article: **"OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery".**
 
 ### Citation
 
