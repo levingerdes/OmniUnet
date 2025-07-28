@@ -9,7 +9,7 @@
 
 ### Information
 
-Code associated to the article: **"Multimodal Perception for Planetary Rovers Using Color, Depth, and Thermal Images".** This code is used in the 🔗 [Multimodal Navigation Repository](https://github.com/spaceuma/MultimodalNavigation/).
+Code associated to the article: **"Multimodal Perception for Planetary Rovers Using Color, Depth, and Thermal Images".**
 
 ### Citation
 
