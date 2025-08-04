@@ -15,7 +15,12 @@ Code associated to the article: **"OmniUnet: A Multimodal Network for Unstructur
 
 If this work was helpful for your research, please consider citing the following BibTeX entry:
 ```BibTeX
-@article{}
+@article{castilla2025omniunet,
+  title={OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery},
+  author={Castilla-Arquillo, Raul and Perez-del-Pulgar, Carlos and Gerdes, Levin and Garcia-Cerezo, Alfonso and Olivares-Mendez, Miguel},
+  journal={arXiv preprint arXiv:2508.00580},
+  year={2025}
+}
 ```
 
 #  System information <a name="sys_info"></a>
