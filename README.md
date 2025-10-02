@@ -1,25 +1,33 @@
 # OmniUnet
 
+[![arxiv](https://img.shields.io/badge/arXiv-2508.00580-b31b1b.svg)](https://doi.org/10.48550/arXiv.2508.00580)
+
+Code associated with the article: **"OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery".**
+
 *Author:* [R. Castilla Arquillo](https://github.com/raulcastar) [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0003-4203-8069)
 
 *Supervisor:* [Carlos J. Pérez del Pulgar](https://github.com/carlibiri) [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-5819-8310)
 
 *Contact info:* raulcastar@uni.lu
 
+### Links
 
-### Information
-
-Code associated to the article: **"OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery".**
+- arXiv article: <https://doi.org/10.48550/arXiv.2508.00580>
+- dataset: <https://10.5281/zenodo.15496883>
 
 ### Citation
 
 If this work was helpful for your research, please consider citing the following BibTeX entry:
 ```BibTeX
 @article{castilla2025omniunet,
-  title={OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery},
-  author={Castilla-Arquillo, Raul and Perez-del-Pulgar, Carlos and Gerdes, Levin and Garcia-Cerezo, Alfonso and Olivares-Mendez, Miguel},
-  journal={arXiv preprint arXiv:2508.00580},
-  year={2025}
+      title={OmniUnet: A Multimodal Network for Unstructured Terrain Segmentation on Planetary Rovers Using RGB, Depth, and Thermal Imagery}, 
+      author={Raul Castilla-Arquillo and Carlos Perez-del-Pulgar and Levin Gerdes and Alfonso Garcia-Cerezo and Miguel A. Olivares-Mendez},
+      year={2025},
+      eprint={2508.00580},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      journal={arXiv},
+      doi={10.48550/arXiv.2508.00580},
 }
 ```
 
